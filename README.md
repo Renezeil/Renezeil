@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Renezeil/Renezeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flowers</title>
+</head>
+<body>
+  <h2>My Favorite Flowers</h2>
+  <ul>
+    <li>Roses</li>
+    <li>Tulips</li>
+    <li>Sunflowers</li>
+    <li>Lilies</li>
+  </ul>
+</body>
+</html>
